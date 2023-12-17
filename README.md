@@ -106,3 +106,9 @@ To maintain a uniform standard and ensure seamless compatibility with many curre
     <img src="https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT&type=Date" alt="Star History Chart">
   </a>
 </p>
+
+# Documentacion relevante
+
+[creacion de asistente de investigacion](https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge])
+
+
